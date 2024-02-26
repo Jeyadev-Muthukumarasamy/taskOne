@@ -9,6 +9,9 @@ This is a React client project created with Vite.
 3. Follow these steps:
 
 cd Client
+
 npm install
+
 cd Server
+
 npm install
